@@ -1,0 +1,32 @@
+<resources>
+    <!-- App Names -->
+    <string name="app_name" translatable="false">Tapper</string>
+    <!-- Navigation Titles -->
+    <string name="title_about">About</string>
+    <string name="title_pad" translatable="false">Pad</string>
+    <string name="title_pad2" translatable="false">Hang Drum</string>
+    <string name="title_badges">Badges</string>
+    <!-- App Slogan -->
+    <string name="slogan"><![CDATA[A MUSICAL APP\n WHICH ANSWERS TO YOUR RYTHM]]></string>
+    <!-- App Descriptions -->
+    <string name="app_description">
+        This App is part of a interdisciplinary project named ESMAPP
+        as a result of a joint work of the Tecnologias e Sistemas de Informação para a Web
+        subjects, Inovação e Empreendedorismo, Programação para Dispositivos Móveis
+        and Técnicas avançadas de Web Design</string>
+    <!-- Developed Titles -->
+    <string name="developed" translatable="false">Developed By</string>
+    <string name="author_email" translatable="false">info@alexandremaia.pt</string>
+    <string name="author_url" translatable="false">www.alexandremaia.pt</string>
+    <!-- Badges Titles -->
+    <string name="badge_rhythm_maker">Rhythm Maker</string>
+    <string name="badge_comeback">"Comeback "</string>
+    <!-- Imgs Content Descriptions -->
+    <string name="app_logo">App Logo</string>
+    <string name="am_logo">Developer Logo</string>
+    <string name="arrow_down">Scrool Arrow</string>
+    <string name="sound_btn">Icon do Som Intrumento</string>
+    <string name="logo_btn">App Logo Button</string>
+    <string name="badge_tap_btn">Badge Rhythm Maker Icon</string>
+    <string name="badge_back_btn">Badge Comeback Icon</string>
+</resources>

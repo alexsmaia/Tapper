@@ -1,0 +1,56 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Develop Links -->
+    <style name="develop_links">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/dev_link_height</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:drawablePadding">4dp</item>
+    </style>
+    <!-- Instruments & Sounds Btns -->
+    <style name="InstrumentOptionBtnBase">
+        <item name="android:layout_width">@dimen/instrument_icon</item>
+        <item name="android:layout_height">@dimen/instrument_icon</item>
+        <item name="android:padding">@dimen/instrument_icon_pad</item>
+        <item name="android:scaleType">fitStart</item>
+        <item name="android:layout_margin">@dimen/grid_margin</item>
+    </style>
+    <style name="InstrumentOptionBtn" parent="InstrumentOptionBtnBase">
+        <item name="android:tint">@android:color/black</item>
+        <item name="android:background">@drawable/instrument_btn</item>
+    </style>
+    <style name="InstrumentOptionBtnBlueOrange" parent="InstrumentOptionBtnBase">
+        <item name="android:background">@drawable/orange_button</item>
+    </style>
+    <!-- App Titles -->
+    <style name="AppTitles">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/main_padding</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+    </style>
+    <!-- Linear Layout Badge -->
+    <style name="BadgeLinearLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/instrument_icon</item>
+        <item name="android:layout_margin">@dimen/main_padding</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <!-- Icon Badge -->
+    <style name="BadgeIcon">
+        <item name="android:layout_width">@dimen/instrument_icon</item>
+        <item name="android:layout_height">@dimen/instrument_icon</item>
+        <item name="android:padding">@dimen/grid_margin</item>
+        <item name="android:tint">@color/badgeInactive</item>
+    </style>
+</resources>

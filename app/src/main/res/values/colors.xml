@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorPrimaryLight">#FFE0B2</color>
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#00BCD4</color>
+    <color name="colorSecondaryDark">#008BA3</color>
+    <color name="colorSecondaryLight">#62EFFF</color>
+    <!-- Accent Color -->
+    <color name="colorAccent">@color/colorSecondary</color>
+    <!-- Text Color -->
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <!-- Divider Color -->
+    <color name="colorDivider">#B6B6B6</color>
+    <!-- Pad Color -->
+    <color name="mainTapTouch">#A5A5A5</color>
+    <!-- Badges Colors -->
+    <color name="badgeInactive">#defaff</color>
+    <color name="bronze">#b08d57</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gold">#FFD700</color>
+    <!-- Other Colors -->
+    <color name="white">#FFFFFF</color>
+</resources>

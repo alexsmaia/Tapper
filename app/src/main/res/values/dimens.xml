@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Other Dimentions -->
+    <dimen name="main_padding">14dp</dimen>
+    <dimen name="grid_margin">8dp</dimen>
+    <dimen name="instrument_icon">100dp</dimen>
+    <dimen name="instrument_icon_pad">20dp</dimen>
+    <dimen name="corners_radius">30dp</dimen>
+    <dimen name="dev_link_height">24dp</dimen>
+</resources>
